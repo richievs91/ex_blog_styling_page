@@ -1,0 +1,127 @@
+body {
+	font-style: normal;
+	font-family: Verdana;
+	font-weight: 300;
+	background-color: #519674;
+	margin: 0;
+}
+
+h1, h3 {
+	font-style: normal;
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+#wentz {
+	border: 5px dotted silver;
+	padding: 1em;
+	margin-bottom: 2em;
+	background: black;
+	color: lightgreen;
+	font-family: Lucida;
+	font-size: .8em;
+	line-height: 1em; 
+	border-radius: 50%;
+}
+
+#undefeated {
+	border: 5px dotted silver;
+	padding: 1.5em;
+	margin-bottom: 2em;
+	background: lightgreen;
+	color: black;
+	font-family: Arial;
+	font-size: .5em;
+	line-height: .8em;
+	border-radius: 75%;
+}
+
+#cox {
+	border: 5px dotted silver;
+	padding: 2em;
+	background: silver;
+	color: chartreuse;
+	font-family: "Times New Roman";
+	font-size: 1.5em;
+	line-height: 1.2em; 
+	border-radius: 100%;
+}
+
+#doug {
+	border: 5px dotted silver;
+	padding: 2.5em;
+	margin-bottom: 2em;
+	background: lightblue;
+	color: coral;
+	font-family: "Andale Mono", AndaleMono, monospace; 
+	font-size: 1em;
+	line-height: 1.4em;
+	border-radius: 200%;
+}
+
+#jordan {
+	border: 5px dotted silver;
+	padding: 3em;
+	background: yellow;
+	color: silver;
+	font-family: Consolas, monaco, monospace;
+	font-size: 1.8em;
+	line-height: 1.6em; 
+	border-radius: 250%;
+}
+
+#birds img {
+	max-width: 100%;
+	display: block;
+	margin: 0 auto 0 auto;
+}
+
+main {
+	width: 40%;
+}
+
+aside {
+	width: 40%;
+}
+
+main, aside {
+	margin: 30px 3%;
+	float: left;
+	font-size: 0.875em;
+}
+
+footer {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
